@@ -10,4 +10,4 @@ To run this example follow these steps:
 
 - To start the application run the following command:
 		pip install -r requirements.txt
-        python app.py
+		python app.py
